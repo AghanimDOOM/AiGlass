@@ -2,5 +2,5 @@
 <manifest>
     <remote name="desktopApp" fetch="https://github.com/AghanimDOOM" />
     <default revision="desktopApp" remote="desktopApp" />
-    <project name="TechnicalPracticeRepo" path="./" />
+    <project name="TechnicalPracticeRepo" path="./" revision="desktopApp"/>
 </manifest>
