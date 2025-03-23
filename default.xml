@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="AiGlass" fetch="https://github.com/AghanimDOOM" />
-    <project name="TechnicalPracticeRepo" path="./" revision="desktopApp"/ remote="AiGlass">
+    <project name="TechnicalPracticeRepo" path="./" revision="desktopApp" remote="AiGlass">
 </manifest>
