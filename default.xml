@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="AiGlass" fetch="https://github.com/AghanimDOOM/AiGlass.git" />
+    <remote name="AiGlass" fetch="https://github.com/AghanimDOOM/manifest.git" />
     <default revision="master" remote="origin" />
     <project name="AiGlass" path="AiGlass" />
 </manifest>
