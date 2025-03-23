@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="manifest" fetch="https://github.com/AghanimDOOM" />
-    <default revision="AiGlass" remote="origin" />
-    <project name="AiGlass" path="AiGlass" />
+    <remote name="desktopApp" fetch="https://github.com/AghanimDOOM" />
+    <default revision="desktopApp" remote="desktopApp" />
+    <project name="TechnicalPracticeRepo" path="./" />
 </manifest>
