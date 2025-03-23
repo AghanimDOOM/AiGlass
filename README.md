@@ -1,2 +1,2 @@
-# AiGlass
-ai眼镜ui界面的repo仓库
+#  repo仓库
+关联本人所有工程。
